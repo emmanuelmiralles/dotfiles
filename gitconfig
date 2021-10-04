@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emmanuel.miralles@gmail.com
+	name = Emmanuel Miralles
